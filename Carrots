@@ -1,0 +1,1158 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name='viewport' content='width=device-width, initial-scale=1.0' />
+<meta http-equiv='X-UA-Compatible' content='IE=edge' />
+<script>
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,initializeOnLoaded:function(o){gform.domLoaded&&gform.scriptsLoaded?o():!gform.domLoaded&&gform.scriptsLoaded?window.addEventListener("DOMContentLoaded",o):document.addEventListener("gform_main_scripts_loaded",o)},hooks:{action:{},filter:{}},addAction:function(o,n,r,t){gform.addHook("action",o,n,r,t)},addFilter:function(o,n,r,t){gform.addHook("filter",o,n,r,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,n){gform.removeHook("action",o,n)},removeFilter:function(o,n,r){gform.removeHook("filter",o,n,r)},addHook:function(o,n,r,t,i){null==gform.hooks[o][n]&&(gform.hooks[o][n]=[]);var e=gform.hooks[o][n];null==i&&(i=n+"_"+e.length),gform.hooks[o][n].push({tag:i,callable:r,priority:t=null==t?10:t})},doHook:function(n,o,r){var t;if(r=Array.prototype.slice.call(r,1),null!=gform.hooks[n][o]&&((o=gform.hooks[n][o]).sort(function(o,n){return o.priority-n.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==n?t.apply(null,r):r[0]=t.apply(null,r)})),"filter"==n)return r[0]},removeHook:function(o,n,t,i){var r;null!=gform.hooks[o][n]&&(r=(r=gform.hooks[o][n]).filter(function(o,n,r){return!!(null!=i&&i!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][n]=r)}});
+</script>
+
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v23.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Health Benefits of Carrots - Individual Fitness</title>
+	<link rel="canonical" href="https://individualfitnessllc.com/health-benefits-of-carrots/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Health Benefits of Carrots - Individual Fitness" />
+	<meta property="og:description" content="Carrots: Health Benefits, Nutrition Facts &amp; Calories Nutritional Value &amp; Calories Most of the benefits of carrots can be attributed to their beta-carotene and fiber content. This root vegetable is also a good source of antioxidant agents. Furthermore, carrots are rich in vitamin A, Vitamin C, Vitamin K, vitamin B8, pantothenic acid, folate, potassium, iron, copper, and manganese. Carrots contain just 44 calories per 100gm. Health Benefits of&hellip;" />
+	<meta property="og:url" content="https://individualfitnessllc.com/health-benefits-of-carrots/" />
+	<meta property="og:site_name" content="Individual Fitness" />
+	<meta property="article:publisher" content="https://www.facebook.com/IndividualFitness" />
+	<meta property="article:published_time" content="2022-04-14T18:41:00+00:00" />
+	<meta property="article:modified_time" content="2022-04-28T20:54:57+00:00" />
+	<meta property="og:image" content="https://individualfitnessllc.com/wp-content/uploads/2022/04/health-benefits-of-carrots.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="628" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="Individual Fitness" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@indfitness" />
+	<meta name="twitter:site" content="@indfitness" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Individual Fitness" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="5 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://individualfitnessllc.com/health-benefits-of-carrots/#article","isPartOf":{"@id":"https://individualfitnessllc.com/health-benefits-of-carrots/"},"author":{"name":"Individual Fitness","@id":"https://individualfitnessllc.com/#/schema/person/95ecf7c4e85b71ff4bf3c2fc1f49ab44"},"headline":"Health Benefits of Carrots","datePublished":"2022-04-14T18:41:00+00:00","dateModified":"2022-04-28T20:54:57+00:00","mainEntityOfPage":{"@id":"https://individualfitnessllc.com/health-benefits-of-carrots/"},"wordCount":913,"commentCount":0,"publisher":{"@id":"https://individualfitnessllc.com/#organization"},"image":{"@id":"https://individualfitnessllc.com/health-benefits-of-carrots/#primaryimage"},"thumbnailUrl":"https://individualfitnessllc.com/wp-content/uploads/2022/04/health-benefits-of-carrots.jpg","keywords":["Fitness &amp; Nutrition Tips"],"articleSection":["Blog"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://individualfitnessllc.com/health-benefits-of-carrots/#respond"]}]},{"@type":"WebPage","@id":"https://individualfitnessllc.com/health-benefits-of-carrots/","url":"https://individualfitnessllc.com/health-benefits-of-carrots/","name":"Health Benefits of Carrots - Individual Fitness","isPartOf":{"@id":"https://individualfitnessllc.com/#website"},"primaryImageOfPage":{"@id":"https://individualfitnessllc.com/health-benefits-of-carrots/#primaryimage"},"image":{"@id":"https://individualfitnessllc.com/health-benefits-of-carrots/#primaryimage"},"thumbnailUrl":"https://individualfitnessllc.com/wp-content/uploads/2022/04/health-benefits-of-carrots.jpg","datePublished":"2022-04-14T18:41:00+00:00","dateModified":"2022-04-28T20:54:57+00:00","breadcrumb":{"@id":"https://individualfitnessllc.com/health-benefits-of-carrots/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://individualfitnessllc.com/health-benefits-of-carrots/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://individualfitnessllc.com/health-benefits-of-carrots/#primaryimage","url":"https://individualfitnessllc.com/wp-content/uploads/2022/04/health-benefits-of-carrots.jpg","contentUrl":"https://individualfitnessllc.com/wp-content/uploads/2022/04/health-benefits-of-carrots.jpg","width":1200,"height":628,"caption":"health benefits of carrots"},{"@type":"BreadcrumbList","@id":"https://individualfitnessllc.com/health-benefits-of-carrots/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://individualfitnessllc.com/"},{"@type":"ListItem","position":2,"name":"Health Benefits of Carrots"}]},{"@type":"WebSite","@id":"https://individualfitnessllc.com/#website","url":"https://individualfitnessllc.com/","name":"Individual Fitness","description":"A Private Personalized Training Experience Where YOU Matter!","publisher":{"@id":"https://individualfitnessllc.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://individualfitnessllc.com/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://individualfitnessllc.com/#organization","name":"Individual Fitness","url":"https://individualfitnessllc.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://individualfitnessllc.com/#/schema/logo/image/","url":"https://individualfitnessllc.com/wp-content/uploads/2020/10/home-ftr.png","contentUrl":"https://individualfitnessllc.com/wp-content/uploads/2020/10/home-ftr.png","width":1200,"height":630,"caption":"Individual Fitness"},"image":{"@id":"https://individualfitnessllc.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/IndividualFitness","https://x.com/indfitness","https://www.instagram.com/individualfitnessllc/","https://www.youtube.com/channel/UC0PMY7T1jPPPZASjwK08ncw"]},{"@type":"Person","@id":"https://individualfitnessllc.com/#/schema/person/95ecf7c4e85b71ff4bf3c2fc1f49ab44","name":"Individual Fitness","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://individualfitnessllc.com/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/e05763dadd0c4501deb7112d719218d2?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/e05763dadd0c4501deb7112d719218d2?s=96&d=mm&r=g","caption":"Individual Fitness"},"sameAs":["http://individualfitnessllc.com"],"url":"https://individualfitnessllc.com/author/sphippo/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Individual Fitness &raquo; Feed" href="https://individualfitnessllc.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Individual Fitness &raquo; Comments Feed" href="https://individualfitnessllc.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Individual Fitness &raquo; Health Benefits of Carrots Comments Feed" href="https://individualfitnessllc.com/health-benefits-of-carrots/feed/" />
+<link rel="preload" href="https://individualfitnessllc.com/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" href="https://individualfitnessllc.com/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/individualfitnessllc.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://individualfitnessllc.com/wp-includes/css/dist/block-library/style.min.css?ver=6.6.1' media='all' />
+<style id='wp-block-library-theme-inline-css'>
+.wp-block-audio :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio :where(figcaption){color:#ffffffa6}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed :where(figcaption){color:#ffffffa6}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:#ffffffa6}:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table :where(figcaption){color:#ffffffa6}.wp-block-video :where(figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video :where(figcaption){color:#ffffffa6}.wp-block-video{margin:0 0 1em}:root :where(.wp-block-template-part.has-background){margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<link rel='stylesheet' id='activecampaign-form-block-css' href='https://individualfitnessllc.com/wp-content/plugins/activecampaign-subscription-forms/activecampaign-form-block/build/style-index.css?ver=1712414845' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--fl-heading-text: #428bca;--wp--preset--color--fl-body-bg: #f2f2f2;--wp--preset--color--fl-body-text: #000000;--wp--preset--color--fl-accent: #2b7bb9;--wp--preset--color--fl-accent-hover: #2b7bb9;--wp--preset--color--fl-topbar-bg: #ffffff;--wp--preset--color--fl-topbar-text: #000000;--wp--preset--color--fl-topbar-link: #428bca;--wp--preset--color--fl-topbar-hover: #0a0202;--wp--preset--color--fl-header-bg: #ffffff;--wp--preset--color--fl-header-text: #000000;--wp--preset--color--fl-header-link: #428bca;--wp--preset--color--fl-header-hover: #000000;--wp--preset--color--fl-nav-bg: #ffffff;--wp--preset--color--fl-nav-link: #428bca;--wp--preset--color--fl-nav-hover: #000000;--wp--preset--color--fl-content-bg: #ffffff;--wp--preset--color--fl-footer-widgets-bg: #ffffff;--wp--preset--color--fl-footer-widgets-text: #000000;--wp--preset--color--fl-footer-widgets-link: #428bca;--wp--preset--color--fl-footer-widgets-hover: #428bca;--wp--preset--color--fl-footer-bg: #ffffff;--wp--preset--color--fl-footer-text: #000000;--wp--preset--color--fl-footer-link: #428bca;--wp--preset--color--fl-footer-hover: #428bca;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--inter: "Inter", sans-serif;--wp--preset--font-family--cardo: Cardo;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wpmenucart-icons-css' href='https://individualfitnessllc.com/wp-content/plugins/woocommerce-menu-bar-cart/assets/css/wpmenucart-icons.min.css?ver=2.14.5' media='all' />
+<style id='wpmenucart-icons-inline-css'>
+@font-face{font-family:WPMenuCart;src:url(https://individualfitnessllc.com/wp-content/plugins/woocommerce-menu-bar-cart/assets/fonts/WPMenuCart.eot);src:url(https://individualfitnessllc.com/wp-content/plugins/woocommerce-menu-bar-cart/assets/fonts/WPMenuCart.eot?#iefix) format('embedded-opentype'),url(https://individualfitnessllc.com/wp-content/plugins/woocommerce-menu-bar-cart/assets/fonts/WPMenuCart.woff2) format('woff2'),url(https://individualfitnessllc.com/wp-content/plugins/woocommerce-menu-bar-cart/assets/fonts/WPMenuCart.woff) format('woff'),url(https://individualfitnessllc.com/wp-content/plugins/woocommerce-menu-bar-cart/assets/fonts/WPMenuCart.ttf) format('truetype'),url(https://individualfitnessllc.com/wp-content/plugins/woocommerce-menu-bar-cart/assets/fonts/WPMenuCart.svg#WPMenuCart) format('svg');font-weight:400;font-style:normal;font-display:swap}
+</style>
+<link rel='stylesheet' id='wpmenucart-css' href='https://individualfitnessllc.com/wp-content/plugins/woocommerce-menu-bar-cart/assets/css/wpmenucart-main.min.css?ver=2.14.5' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css' href='https://individualfitnessllc.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=9.2.3' media='all' />
+<style id='woocommerce-layout-inline-css'>
+
+	.infinite-scroll .woocommerce-pagination {
+		display: none;
+	}
+</style>
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='https://individualfitnessllc.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=9.2.3' media='only screen and (max-width: 767px)' />
+<link rel='stylesheet' id='woocommerce-general-css' href='https://individualfitnessllc.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=9.2.3' media='all' />
+<style id='woocommerce-inline-inline-css'>
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel='stylesheet' id='woopack-frontend-css' href='https://individualfitnessllc.com/wp-content/plugins/woopack/assets/css/frontend.css?ver=1.4.5' media='all' />
+<link rel='stylesheet' id='font-awesome-5-css' href='https://individualfitnessllc.com/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/css/all.min.css?ver=2.8.3.6' media='all' />
+<link rel='stylesheet' id='ultimate-icons-css' href='https://individualfitnessllc.com/wp-content/uploads/bb-plugin/icons/ultimate-icons/style.css?ver=2.8.3.6' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://individualfitnessllc.com/wp-includes/css/dashicons.min.css?ver=6.6.1' media='all' />
+<link rel='stylesheet' id='foundation_icon-css' href='https://individualfitnessllc.com/wp-content/plugins/expandable-row-for-beaver-builder/expandable-row/fonts/foundation-icons/foundation-icons.css?ver=6.6.1' media='all' />
+<link rel='stylesheet' id='font-awesome-css' href='https://individualfitnessllc.com/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/css/v4-shims.min.css?ver=2.8.3.6' media='all' />
+<link rel='stylesheet' id='fl-builder-layout-bundle-65178b2dfa9700fb24a8ccdffe6149ba-css' href='https://individualfitnessllc.com/wp-content/uploads/bb-plugin/cache/65178b2dfa9700fb24a8ccdffe6149ba-layout-bundle.css?ver=2.8.3.6-1.4.10' media='all' />
+<link rel='stylesheet' id='jquery-magnificpopup-css' href='https://individualfitnessllc.com/wp-content/plugins/bb-plugin/css/jquery.magnificpopup.min.css?ver=2.8.3.6' media='all' />
+<link rel='stylesheet' id='base-css' href='https://individualfitnessllc.com/wp-content/themes/bb-theme/css/base.min.css?ver=1.7.16' media='all' />
+<link rel='stylesheet' id='fl-automator-skin-css' href='https://individualfitnessllc.com/wp-content/uploads/bb-theme/skin-667247160bc88.css?ver=1.7.16' media='all' />
+<link rel='stylesheet' id='fl-child-theme-css' href='https://individualfitnessllc.com/wp-content/themes/bb-theme-child/style.css?ver=6.6.1' media='all' />
+<link rel='stylesheet' id='pp-animate-css' href='https://individualfitnessllc.com/wp-content/plugins/bbpowerpack/assets/css/animate.min.css?ver=3.5.1' media='all' />
+<link rel='stylesheet' id='fl-builder-google-fonts-3d7829f307b4d798f64b894aecb26baf-css' href='//fonts.googleapis.com/css?family=Lato%3A900&#038;ver=6.6.1' media='all' />
+<script src="https://individualfitnessllc.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://individualfitnessllc.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://individualfitnessllc.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.9.2.3" id="jquery-blockui-js" defer data-wp-strategy="defer"></script>
+<script id="wc-add-to-cart-js-extra">
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/individualfitnessllc.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+</script>
+<script src="https://individualfitnessllc.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=9.2.3" id="wc-add-to-cart-js" defer data-wp-strategy="defer"></script>
+<script src="https://individualfitnessllc.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.9.2.3" id="js-cookie-js" defer data-wp-strategy="defer"></script>
+<script id="woocommerce-js-extra">
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+</script>
+<script src="https://individualfitnessllc.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=9.2.3" id="woocommerce-js" defer data-wp-strategy="defer"></script>
+<script src="https://individualfitnessllc.com/wp-content/plugins/bbpowerpack/assets/js/jquery.cookie.min.js?ver=1.4.1" id="jquery-cookie-js" defer data-wp-strategy="defer"></script>
+<script id="kk-script-js-extra">
+var fetchCartItems = {"ajax_url":"https:\/\/individualfitnessllc.com\/wp-admin\/admin-ajax.php","action":"kk_wc_fetchcartitems","nonce":"1ea179b33f","currency":"USD"};
+</script>
+<script src="https://individualfitnessllc.com/wp-content/plugins/kliken-marketing-for-google/assets/kk-script.js?ver=6.6.1" id="kk-script-js"></script>
+<link rel="https://api.w.org/" href="https://individualfitnessllc.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://individualfitnessllc.com/wp-json/wp/v2/posts/5876" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://individualfitnessllc.com/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://individualfitnessllc.com/?p=5876' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://individualfitnessllc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Findividualfitnessllc.com%2Fhealth-benefits-of-carrots%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://individualfitnessllc.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Findividualfitnessllc.com%2Fhealth-benefits-of-carrots%2F&#038;format=xml" />
+		<script>
+			var bb_powerpack = {
+				ajaxurl: 'https://individualfitnessllc.com/wp-admin/admin-ajax.php'
+			};
+		</script>
+		<script type="text/javascript">!function(e,t){(e=t.createElement("script")).src="https://cdn.convertbox.com/convertbox/js/embed.js",e.id="app-convertbox-script",e.async=true,e.dataset.uuid="2ccc31e2-5653-4297-8272-dda2d973a294",document.getElementsByTagName("head")[0].appendChild(e)}(window,document);</script>
+<script>var cb_wp=cb_wp || {};cb_wp.is_user_logged_in=false;cb_wp.post_data={"id":5876,"tags":[33],"post_type":"post","cats":[16]};</script>		<script type="text/javascript">
+			var woopack_config = {"ajaxurl":"https:\/\/individualfitnessllc.com\/wp-admin\/admin-ajax.php","page":0,"current_page":"https:\/\/individualfitnessllc.com\/health-benefits-of-carrots\/","woo_url":"https:\/\/individualfitnessllc.com\/wp-content\/plugins\/woocommerce\/"};
+		</script>
+		<link rel="pingback" href="https://individualfitnessllc.com/xmlrpc.php">
+	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<noscript><style>.lazyload[data-src]{display:none !important;}</style></noscript><style>.lazyload{background-image:none !important;}.lazyload:before{background-image:none !important;}</style><style id='wp-fonts-local'>
+@font-face{font-family:Inter;font-style:normal;font-weight:300 900;font-display:fallback;src:url('https://individualfitnessllc.com/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2') format('woff2');font-stretch:normal;}
+@font-face{font-family:Cardo;font-style:normal;font-weight:400;font-display:fallback;src:url('https://individualfitnessllc.com/wp-content/plugins/woocommerce/assets/fonts/cardo_normal_400.woff2') format('woff2');}
+</style>
+<link rel="icon" href="https://individualfitnessllc.com/wp-content/uploads/2020/10/cropped-CircleLogo-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://individualfitnessllc.com/wp-content/uploads/2020/10/cropped-CircleLogo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://individualfitnessllc.com/wp-content/uploads/2020/10/cropped-CircleLogo-180x180.png" />
+<meta name="msapplication-TileImage" content="https://individualfitnessllc.com/wp-content/uploads/2020/10/cropped-CircleLogo-270x270.png" />
+		<style id="wp-custom-css">
+			/* REMOVE CARD ICONS ON CHECKOUT */
+img.stripe-jcb-icon.stripe-icon,
+img.stripe-diners-icon.stripe-icon {
+    display: none !important;
+}
+
+/* Top Bar font size */
+.fl-page-bar .text-right .fl-page-bar-nav {
+  font-size: 15px;
+}
+.fl-page-bar .text-right .fl-page-bar-nav {
+  font-size: 15px;
+}
+/* Full Video Frame */
+.fullvideo {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.fullvideo iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+/* Top Bar font size */
+html body .fl-page-bar {
+font-size:16px;
+}
+
+/* SOLID BUTTON Give the link some padding and some color */
+.fl-page-nav .navbar-nav > li.ss-nav-button {
+    padding: 10px;
+}
+.fl-page-nav .navbar-nav > li.ss-nav-button > a {
+    background-color: #1d8bcb;
+		  border: 2px solid #1d8bcb; /* blue */
+    color: #ffffff !important;
+    padding: 6px 18px !important;
+    border-radius: 1px;
+}
+
+/* Adjust the position for the fixed navigation menu */
+.fl-page-header-fixed .fl-page-nav .navbar-nav > li.ss-nav-button > a {
+    position: relative;
+    bottom: 6px;
+}
+
+/* Give the button a hover & active state */
+.fl-page-nav .navbar-nav > li.ss-nav-button > a:active,
+.fl-page-nav .navbar-nav > li.ss-nav-button > a:hover {
+    color: #ffffff !important;
+    background-color:#000000;
+	border: 2px solid #000000;
+}
+
+
+
+/* SEE THRU BUTTON Give the link some padding and some color */
+.fl-page-nav .navbar-nav > li.ss-nav-button-2 {
+    padding: 10px;
+}
+.fl-page-nav .navbar-nav > li.ss-nav-button-2 > a {
+    background-color: #FFFFFF;
+	  border: 2px solid #FF4629; /* Orange */
+    color: #FF4629 !important;
+    padding: 6px 18px !important;
+    border-radius: 1px;
+}
+
+/* Adjust the position for the fixed navigation menu */
+.fl-page-header-fixed .fl-page-nav .navbar-nav > li.ss-nav-button-2 > a {
+    position: relative;
+    bottom: 6px;
+}
+
+/* Give the button a hover & active state */
+.fl-page-nav .navbar-nav > li.ss-nav-button-2 > a:active,
+.fl-page-nav .navbar-nav > li.ss-nav-button-2 > a:hover {
+    color: #ffffff !important;
+    background-color:#FF4629;
+}
+/* HIDE FEATURED IMAGE */
+.post-3766 .fl-post-thumb { 
+display: none; 
+}
+.post-3733 .fl-post-thumb { 
+display: none; 
+}
+
+/* SOLID BUTTON Give the link some padding and some color */
+.fl-page-nav .navbar-nav > li.ss-nav-button {
+    padding: 10px;
+}
+.fl-page-nav .navbar-nav > li.ss-nav-button > a {
+    background-color: #1d8bcb;
+		  border: 2px solid #1d8bcb; /* blue */
+    color: #ffffff !important;
+    padding: 6px 18px !important;
+    border-radius: 1px;
+}
+
+/* Adjust the position for the fixed navigation menu */
+.fl-page-header-fixed .fl-page-nav .navbar-nav > li.ss-nav-button > a {
+    position: relative;
+    bottom: 6px;
+}
+
+/* Give the button a hover & active state */
+.fl-page-nav .navbar-nav > li.ss-nav-button > a:active,
+.fl-page-nav .navbar-nav > li.ss-nav-button > a:hover {
+    color: #ffffff !important;
+    background-color:#000000;
+	border: 2px solid #000000;
+}
+
+
+
+/* SEE THRU BUTTON Give the link some padding and some color */
+.fl-page-nav .navbar-nav > li.ss-nav-button-2 {
+    padding: 10px;
+}
+.fl-page-nav .navbar-nav > li.ss-nav-button-2 > a {
+    background-color: #FFFFFF;
+	  border: 2px solid #FF4629; /* Orange */
+    color: #FF4629 !important;
+    padding: 6px 18px !important;
+    border-radius: 1px;
+}
+
+/* Adjust the position for the fixed navigation menu */
+.fl-page-header-fixed .fl-page-nav .navbar-nav > li.ss-nav-button-2 > a {
+    position: relative;
+    bottom: 6px;
+}
+
+/* Give the button a hover & active state */
+.fl-page-nav .navbar-nav > li.ss-nav-button-2 > a:active,
+.fl-page-nav .navbar-nav > li.ss-nav-button-2 > a:hover {
+    color: #ffffff !important;
+    background-color:#FF4629;
+}
+/* HIDE FEATURED IMAGE */
+.post-3766 .fl-post-thumb { 
+display: none; 
+}
+.post-3733 .fl-post-thumb { 
+display: none; 
+}		</style>
+		<script id="fl-theme-custom-js"><div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0&appId=313899772784961&autoLogAppEvents=1" nonce="LIwVKdLk"></script></script>
+<!-- Google GA4 tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1L5WR2PQGC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1L5WR2PQGC');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-72386854-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-72386854-1');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154746092-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-154746092-1');
+</script>
+
+
+</head>
+<body class="post-template-default single single-post postid-5876 single-format-standard theme-bb-theme fl-builder-2-8-3-6 fl-themer-1-4-10 fl-theme-1-7-16 woocommerce-no-js fl-theme-builder-footer fl-theme-builder-footer-footer fl-theme-builder-singular fl-theme-builder-singular-blog-posts-single fl-framework-base fl-preset-default fl-full-width fl-has-sidebar fl-submenu-indicator" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+<!-- Facebook Pixel Code CONCORD -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '646309245860989');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=646309245860989&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Facebook Pixel Code MANCHESTER-->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '2239511573021147');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=2239511573021147&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --><a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip to content</a><div class="fl-page">
+	<header class="fl-page-header fl-page-header-fixed fl-page-nav-right fl-page-nav-toggle-icon fl-page-nav-toggle-visible-medium-mobile"  role="banner">
+	<div class="fl-page-header-wrap">
+		<div class="fl-page-header-container container">
+			<div class="fl-page-header-row row">
+				<div class="col-sm-12 col-md-3 fl-page-logo-wrap">
+					<div class="fl-page-header-logo">
+						<a href="https://individualfitnessllc.com/"><img class="fl-logo-img" loading="false" data-no-lazy="1"   itemscope itemtype="https://schema.org/ImageObject" src="https://individualfitnessllc.com/wp-content/uploads/2020/10/INDIVIDUAL-FITNESS-300.png" data-retina="https://individualfitnessllc.com/wp-content/uploads/2020/10/INDIVIDUAL-FITNESS-600.png" title="" width="300" data-width="300" height="44" data-height="44" alt="Individual Fitness" /><meta itemprop="name" content="Individual Fitness" /></a>
+					</div>
+				</div>
+				<div class="col-sm-12 col-md-9 fl-page-fixed-nav-wrap">
+					<div class="fl-page-nav-wrap">
+						<nav class="fl-page-nav fl-nav navbar navbar-default navbar-expand-md" aria-label="Header Menu" role="navigation">
+							<button type="button" class="navbar-toggle navbar-toggler" data-toggle="collapse" data-target=".fl-page-nav-collapse">
+								<span><i class="fas fa-bars" aria-hidden="true"></i><span class="sr-only">Menu</span></span>
+							</button>
+							<div class="fl-page-nav-collapse collapse navbar-collapse">
+								<ul id="menu-main-menu" class="nav navbar-nav navbar-right menu fl-theme-menu"><li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-48 nav-item"><a href="https://individualfitnessllc.com/" class="nav-link">Home</a></li>
+<li id="menu-item-49" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49 nav-item"><a href="https://individualfitnessllc.com/fitness-programs/" class="nav-link">Fitness Programs</a></li>
+<li id="menu-item-7680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7680 nav-item"><a href="https://individualfitnessllc.com/store/" class="nav-link">Shop</a></li>
+<li id="menu-item-4588" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4588 nav-item"><a href="https://individualfitnessllc.com/reviews/" class="nav-link">Success Stories</a></li>
+<li id="menu-item-50" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50 nav-item"><a href="https://individualfitnessllc.com/blog/" class="nav-link">Blog</a></li>
+<li id="menu-item-8267" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8267 nav-item"><a href="https://1370wfea.com/podcasts/categories/on-the-go-with-jimmy-johnny-o/" class="nav-link">Podcast</a></li>
+<li id="menu-item-57" class="ss-nav-button menu-item menu-item-type-post_type menu-item-object-page menu-item-57 nav-item"><a href="https://individualfitnessllc.com/consult/" class="nav-link">GET STARTED</a></li>
+</ul>							</div>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</header><!-- .fl-page-header-fixed -->
+<div class="fl-page-bar">
+	<div class="fl-page-bar-container container">
+		<div class="fl-page-bar-row row">
+			<div class="col-sm-6 col-md-6 text-left clearfix"><div class="fl-page-bar-text fl-page-bar-text-1"><strong>Concord 603-224-8096 ~ Manchester 603-836-5745</strong></div></div>			<div class="col-sm-6 col-md-6 text-right clearfix">		<nav class="top-bar-nav" aria-label="Top Bar Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation">
+			<ul id="menu-top-bar-menu" class="fl-page-bar-nav nav navbar-nav menu"><li id="menu-item-4593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4593 nav-item"><a href="https://individualfitnessllc.com/about/" class="nav-link">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-4594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4594 nav-item"><a href="https://individualfitnessllc.com/about/" class="nav-link">Our Story</a></li>
+	<li id="menu-item-4596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4596 nav-item"><a href="https://individualfitnessllc.com/about/careers/" class="nav-link">Careers</a></li>
+</ul>
+</li>
+<li id="menu-item-4595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4595 nav-item"><a href="https://individualfitnessllc.com/about/locations/" class="nav-link">Locations</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page nav-item wpmenucartli wpmenucart-display-right menu-item" id="wpmenucartli"><a class="wpmenucart-contents empty-wpmenucart-visible" href="https://individualfitnessllc.com/shop/" title="Start shopping"><i class="wpmenucart-icon-shopping-cart-0" role="img" aria-label="Cart"></i><span class="cartcontents">0 items</span><span class="amount">&#36;0.00</span></a></li></ul></nav></div>		</div>
+	</div>
+</div><!-- .fl-page-bar -->
+<header class="fl-page-header fl-page-header-primary fl-page-nav-right fl-page-nav-toggle-icon fl-page-nav-toggle-visible-medium-mobile" itemscope="itemscope" itemtype="https://schema.org/WPHeader"  role="banner">
+	<div class="fl-page-header-wrap">
+		<div class="fl-page-header-container container">
+			<div class="fl-page-header-row row">
+				<div class="col-sm-12 col-md-4 fl-page-header-logo-col">
+					<div class="fl-page-header-logo" itemscope="itemscope" itemtype="https://schema.org/Organization">
+						<a href="https://individualfitnessllc.com/" itemprop="url"><img class="fl-logo-img" loading="false" data-no-lazy="1"   itemscope itemtype="https://schema.org/ImageObject" src="https://individualfitnessllc.com/wp-content/uploads/2020/10/INDIVIDUAL-FITNESS-300.png" data-retina="https://individualfitnessllc.com/wp-content/uploads/2020/10/INDIVIDUAL-FITNESS-600.png" title="" width="300" data-width="300" height="44" data-height="44" alt="Individual Fitness" /><meta itemprop="name" content="Individual Fitness" /></a>
+											</div>
+				</div>
+				<div class="col-sm-12 col-md-8 fl-page-nav-col">
+					<div class="fl-page-nav-wrap">
+						<nav class="fl-page-nav fl-nav navbar navbar-default navbar-expand-md" aria-label="Header Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation">
+							<button type="button" class="navbar-toggle navbar-toggler" data-toggle="collapse" data-target=".fl-page-nav-collapse">
+								<span><i class="fas fa-bars" aria-hidden="true"></i><span class="sr-only">Menu</span></span>
+							</button>
+							<div class="fl-page-nav-collapse collapse navbar-collapse">
+								<ul id="menu-main-menu-1" class="nav navbar-nav navbar-right menu fl-theme-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-48 nav-item"><a href="https://individualfitnessllc.com/" class="nav-link">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49 nav-item"><a href="https://individualfitnessllc.com/fitness-programs/" class="nav-link">Fitness Programs</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7680 nav-item"><a href="https://individualfitnessllc.com/store/" class="nav-link">Shop</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4588 nav-item"><a href="https://individualfitnessllc.com/reviews/" class="nav-link">Success Stories</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50 nav-item"><a href="https://individualfitnessllc.com/blog/" class="nav-link">Blog</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8267 nav-item"><a href="https://1370wfea.com/podcasts/categories/on-the-go-with-jimmy-johnny-o/" class="nav-link">Podcast</a></li>
+<li class="ss-nav-button menu-item menu-item-type-post_type menu-item-object-page menu-item-57 nav-item"><a href="https://individualfitnessllc.com/consult/" class="nav-link">GET STARTED</a></li>
+</ul>							</div>
+						</nav>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</header><!-- .fl-page-header -->
+	<div id="fl-main-content" class="fl-page-content" itemprop="mainContentOfPage" role="main">
+
+		<div class="fl-builder-content fl-builder-content-6379 fl-builder-global-templates-locked" data-post-id="6379"><div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5f9973da94a1c fl-row-default-height fl-row-align-center fl-row-has-layers" data-node="5f9973da94a1c">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+				<div class="fl-builder-layer fl-builder-shape-layer fl-builder-bottom-edge-layer fl-builder-shape-concave">
+	<svg class="fl-builder-layer-align-bottom-center" viewBox="0 0 800 50" preserveAspectRatio="none">
+
+		<defs>
+				</defs>
+
+		<g class="fl-shape-content">
+			<path class="fl-shape" d="M0,0 L800,0 L800,50 C666.666667,22.5877193 533.333333,8.88157895 400,8.88157895 C266.666667,8.88157895 133.333333,22.5877193 0,50 L0,0 Z"></path>
+		</g>
+	</svg>
+</div>
+		<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5f9973c832ae4" data-node="5f9973c832ae4">
+			<div class="fl-col fl-node-5f9973c832ae8" data-node="5f9973c832ae8">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-heading fl-node-5f9973c832aea" data-node="5f9973c832aea">
+	<div class="fl-module-content fl-node-content">
+		<h2 class="fl-heading">
+		<span class="fl-heading-text">Blog & Resources</span>
+	</h2>
+	</div>
+</div>
+<div class="fl-module fl-module-uabb-advanced-menu fl-node-5f9973c832ae9" data-node="5f9973c832ae9">
+	<div class="fl-module-content fl-node-content">
+			<div class="uabb-creative-menu
+	 uabb-creative-menu-accordion-collapse	uabb-menu-default">
+		<div class="uabb-creative-menu-mobile-toggle-container"><div class="uabb-creative-menu-mobile-toggle hamburger" tabindex="0"><div class="uabb-svg-container"><svg title="uabb-menu-toggle" version="1.1" class="hamburger-menu" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" viewBox="0 0 50 50">
+<rect class="uabb-hamburger-menu-top" width="50" height="10"/>
+<rect class="uabb-hamburger-menu-middle" y="20" width="50" height="10"/>
+<rect class="uabb-hamburger-menu-bottom" y="40" width="50" height="10"/>
+</svg>
+</div></div></div>			<div class="uabb-clear"></div>
+					<ul id="menu-blog-filters" class="menu uabb-creative-menu-horizontal uabb-toggle-none"><li id="menu-item-6380" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag uabb-creative-menu uabb-cm-style"><a href="https://individualfitnessllc.com/tag/fitness-nutrition-tips/"><span class="menu-item-text">Fitness &amp; Nutrition Tips</span></a></li>
+<li id="menu-item-4579" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag uabb-creative-menu uabb-cm-style"><a href="https://individualfitnessllc.com/tag/recipes/"><span class="menu-item-text">Recipes</span></a></li>
+<li id="menu-item-4580" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag uabb-creative-menu uabb-cm-style"><a href="https://individualfitnessllc.com/tag/smoothies/"><span class="menu-item-text">Smoothies</span></a></li>
+<li id="menu-item-6381" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag uabb-creative-menu uabb-cm-style"><a href="https://individualfitnessllc.com/tag/client-of-the-month/"><span class="menu-item-text">Clients of the Month</span></a></li>
+<li id="menu-item-6382" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag uabb-creative-menu uabb-cm-style"><a href="https://individualfitnessllc.com/tag/if-news/"><span class="menu-item-text">IF News</span></a></li>
+<li id="menu-item-6763" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag uabb-creative-menu uabb-cm-style"><a href="https://individualfitnessllc.com/tag/if-tv/"><span class="menu-item-text">IF TV</span></a></li>
+</ul>	</div>
+
+		</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5f7f641995c9d fl-row-default-height fl-row-align-center" data-node="5f7f641995c9d">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5f7f6443b4db7" data-node="5f7f6443b4db7">
+			<div class="fl-col fl-node-5f7f6443b4eae" data-node="5f7f6443b4eae">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-heading fl-node-5f7f641995ca9" data-node="5f7f641995ca9">
+	<div class="fl-module-content fl-node-content">
+		<h1 class="fl-heading">
+		<span class="fl-heading-text">Health Benefits of Carrots</span>
+	</h1>
+	</div>
+</div>
+<div class="fl-module fl-module-fl-post-info fl-node-5f7f641995cab" data-node="5f7f641995cab">
+	<div class="fl-module-content fl-node-content">
+		<span class="fl-post-info-date">April 14, 2022</span><span class="fl-post-info-sep">/</span><span class="fl-post-info-terms"><a href="https://individualfitnessllc.com/tag/fitness-nutrition-tips/" rel="tag" class="fitness-nutrition-tips">Fitness &amp; Nutrition Tips</a></span>	</div>
+</div>
+<div class="fl-module fl-module-pp-image fl-node-5f7f6443b4d1f" data-node="5f7f6443b4d1f">
+	<div class="fl-module-content fl-node-content">
+		<div class="pp-photo-container">
+	<div class="pp-photo pp-photo-align-center pp-photo-align-responsive-default" itemscope itemtype="http://schema.org/ImageObject">
+		<div class="pp-photo-content">
+			<div class="pp-photo-content-inner">
+									<img decoding="async" width="1200" height="628" class="pp-photo-img wp-image-8038 size-full lazyload" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABLAAAAJ0AQAAAAAq8+f6AAAAAnRSTlMAAHaTzTgAAABzSURBVHja7cExAQAAAMKg9U9tDQ+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAnA3J7AAFl0kJYAAAAAElFTkSuQmCC" alt="health benefits of carrots" itemprop="image"   data-src="https://individualfitnessllc.com/wp-content/uploads/2022/04/health-benefits-of-carrots.jpg" data-srcset="https://individualfitnessllc.com/wp-content/uploads/2022/04/health-benefits-of-carrots.jpg 1200w, https://individualfitnessllc.com/wp-content/uploads/2022/04/health-benefits-of-carrots-300x157.jpg 300w, https://individualfitnessllc.com/wp-content/uploads/2022/04/health-benefits-of-carrots-1024x536.jpg 1024w, https://individualfitnessllc.com/wp-content/uploads/2022/04/health-benefits-of-carrots-768x402.jpg 768w, https://individualfitnessllc.com/wp-content/uploads/2022/04/health-benefits-of-carrots-600x314.jpg 600w" data-sizes="auto" data-eio-rwidth="1200" data-eio-rheight="628" /><noscript><img decoding="async" width="1200" height="628" class="pp-photo-img wp-image-8038 size-full" src="https://individualfitnessllc.com/wp-content/uploads/2022/04/health-benefits-of-carrots.jpg" alt="health benefits of carrots" itemprop="image" srcset="https://individualfitnessllc.com/wp-content/uploads/2022/04/health-benefits-of-carrots.jpg 1200w, https://individualfitnessllc.com/wp-content/uploads/2022/04/health-benefits-of-carrots-300x157.jpg 300w, https://individualfitnessllc.com/wp-content/uploads/2022/04/health-benefits-of-carrots-1024x536.jpg 1024w, https://individualfitnessllc.com/wp-content/uploads/2022/04/health-benefits-of-carrots-768x402.jpg 768w, https://individualfitnessllc.com/wp-content/uploads/2022/04/health-benefits-of-carrots-600x314.jpg 600w" sizes="(max-width: 1200px) 100vw, 1200px" data-eio="l" /></noscript>
+					<div class="pp-overlay-bg"></div>
+												</div>
+		</div>
+	</div>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-5f7f641995ca6" data-node="5f7f641995ca6">
+			<div class="fl-col fl-node-5f7f641995ca7" data-node="5f7f641995ca7">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-fl-post-content fl-node-5f7f641995ca8" data-node="5f7f641995ca8">
+	<div class="fl-module-content fl-node-content">
+		<h2>Carrots: Health Benefits, Nutrition Facts &amp; Calories</h2>
+<h3>Nutritional Value &amp; Calories</h3>
+<p><span style="font-size: 12.0pt; line-height: 107%;">Most of the benefits of carrots can be attributed to their beta-carotene and </span><a title="fiber" href="https://www.organicfacts.net/health-benefits/other/health-benefits-of-fiber.html?utm_source=internal&amp;utm_medium=link&amp;utm_campaign=smartlinks"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">fiber</span></a><span style="font-size: 12.0pt; line-height: 107%;"> content. This root vegetable is also a </span><a href="http://pubs.acs.org/doi/abs/10.1021/jf00093a005" target="_blank" rel="noopener noreferrer"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">good source</span></a><span style="font-size: 12.0pt; line-height: 107%;"> of antioxidant agents. Furthermore, carrots are rich in </span><a title="vitamin A" href="https://www.organicfacts.net/health-benefits/vitamins/health-benefits-of-vitamin-a-or-retinol.html?utm_source=internal&amp;utm_medium=link&amp;utm_campaign=smartlinks"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">vitamin A</span></a><span style="font-size: 12.0pt; line-height: 107%;">, </span><a title="Vitamin C" href="https://www.organicfacts.net/health-benefits/vitamins/health-benefits-of-vitamin-c-or-ascorbic-acid.html?utm_source=internal&amp;utm_medium=link&amp;utm_campaign=smartlinks"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">Vitamin C</span></a><span style="font-size: 12.0pt; line-height: 107%;">, </span><a title="Vitamin K" href="https://www.organicfacts.net/health-benefits/vitamins/health-benefits-of-vitamin-k.html?utm_source=internal&amp;utm_medium=link&amp;utm_campaign=smartlinks"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">Vitamin K</span></a><span style="font-size: 12.0pt; line-height: 107%;">, vitamin B8, </span><a title="pantothenic acid" href="https://www.organicfacts.net/health-benefits/vitamins/vitamin-b5-or-pantothenic-acid.html?utm_source=internal&amp;utm_medium=link&amp;utm_campaign=smartlinks"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">pantothenic acid</span></a><span style="font-size: 12.0pt; line-height: 107%;">, folate, </span><a title="potassium" href="https://www.organicfacts.net/health-benefits/minerals/health-benefits-of-potassium.html?utm_source=internal&amp;utm_medium=link&amp;utm_campaign=smartlinks"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">potassium</span></a><span style="font-size: 12.0pt; line-height: 107%;">, </span><a title="iron" href="https://www.organicfacts.net/health-benefits/minerals/health-benefits-of-iron.html?utm_source=internal&amp;utm_medium=link&amp;utm_campaign=smartlinks"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">iron</span></a><span style="font-size: 12.0pt; line-height: 107%;">, </span><a title="copper" href="https://www.organicfacts.net/health-benefits/minerals/health-benefits-of-copper.html?utm_source=internal&amp;utm_medium=link&amp;utm_campaign=smartlinks"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">copper</span></a><span style="font-size: 12.0pt; line-height: 107%;">, and </span><a title="manganese" href="https://www.organicfacts.net/health-benefits/minerals/health-benefits-of-manganese.html?utm_source=internal&amp;utm_medium=link&amp;utm_campaign=smartlinks"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">manganese</span></a><span style="font-size: 12.0pt; line-height: 107%;">. Carrots contain just 44 calories per 100gm.</span></p>
+<h3>Health Benefits of Carrots</h3>
+<p><strong><span style="font-size: 12.0pt; line-height: 107%; color: #ff6600;">Prevention of Heart</span></strong><span style="font-size: 12.0pt; line-height: 107%; color: #ff6600;"> <strong>Disease: </strong></span><span style="font-size: 12.0pt; line-height: 107%;">In a study meant to reveal the therapeutic value of carrots, researchers at the Wolfson Gastrointestinal Laboratory in </span><a title="Edinburgh" href="https://www.organicfacts.net/organic-products/organic-stores/edinburgh.html?utm_source=internal&amp;utm_medium=link&amp;utm_campaign=smartlinks"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">Edinburgh</span></a><span style="font-size: 12.0pt; line-height: 107%;">, Scotland revealed that cholesterol level drops by an average of 11 percent if seven ounces of raw carrots per day are taken for three weeks.</span></p>
+<p><span style="font-size: 12.0pt; line-height: 107%;">High cholesterol is a major factor for heart disease. Since regular consumption of carrots reduces </span><a title="cholesterol levels" href="https://www.organicfacts.net/health-benefits/other/cooking-methods-cholesterol.html?utm_source=internal&amp;utm_medium=link&amp;utm_campaign=smartlinks"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">cholesterol levels</span></a><span style="font-size: 12.0pt; line-height: 107%;">, it is a good idea to consume a healthy dose of carrots, in order to prevent heart-related problems.<br />
+A group of Swedish scientists discovered that these root vegetables can reduce the chances of having a heart attack. A study conducted at the Mario Negri Institute of Pharmacological Research in Italy found that those who ate more carrots had 1/3 as high a </span><a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2621.2004.tb09955.x/abstract" target="_blank" rel="noopener noreferrer"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">risk</span></a><span style="font-size: 12.0pt; line-height: 107%;"> of heart attack as compared with those who ate fewer carrots.</span></p>
+<p><strong><span style="font-size: 12.0pt; line-height: 107%; color: #ff6600;">Blood Pressure: </span></strong><span style="font-size: 12.0pt; line-height: 107%;">Next time you start getting riled up about something and your blood begins to boil, eat a carrot! Carrots are rich sources of potassium, which is a vasodilator and can relax the tension in your blood vessels and arteries, thereby increasing blood flow and circulation, boosting organ function throughout the body and reducing the </span><a title="stress" href="https://www.organicfacts.net/home-remedies/home-remedies-for-stress.html?utm_source=internal&amp;utm_medium=link&amp;utm_campaign=smartlinks"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">stress</span></a><span style="font-size: 12.0pt; line-height: 107%;"> on the cardiovascular system. High blood pressure is also directly linked to </span><a title="atherosclerosis" href="https://www.organicfacts.net/home-remedies/atherosclerosis.html?utm_source=internal&amp;utm_medium=link&amp;utm_campaign=smartlinks"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">atherosclerosis</span></a><span style="font-size: 12.0pt; line-height: 107%;">, strokes, and heart attacks, so this is yet another heart-healthy aspect of carrots! The coumarin found in carrots also has been linked to </span><a href="http://www.sciencedirect.com/science/article/pii/S0944711300800641" target="_blank" rel="noopener noreferrer"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">reducing</span></a><span style="font-size: 12.0pt; line-height: 107%;"> hypertension and protecting your heart health!</span></p>
+<p><strong><span style="font-size: 12.0pt; line-height: 107%; color: #ff6600;">Immune Booster:</span></strong><span style="font-size: 12.0pt; line-height: 107%; color: #ff6600;">  </span><span style="font-size: 12.0pt; line-height: 107%;">Carrots contain a number of antiseptic and antibacterial abilities that make them ideal for boosting the immune system. Not only that, carrots are a rich source of vitamin C, which stimulates the activity of white blood cells and is one of the most important elements in the </span><a href="http://www.aseanfood.info/Articles/11020014.pdf" target="_blank" rel="noopener noreferrer"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">human</span></a><span style="font-size: 12.0pt; line-height: 107%;"> immune system.</span></p>
+<p><strong><span style="font-size: 12.0pt; line-height: 107%; color: #ff6600;">Digestion: </span></strong><span style="font-size: 12.0pt; line-height: 107%;">Carrots, like most vegetables, have significant amounts of dietary fiber in their orange roots, and fiber is one of the most important elements in maintaining good digestive health. Fiber adds bulk to stool, which helps it to pass smoothly through the digestive tract, and it also stimulates peristaltic motion and the secretion of gastric juices. Altogether, this reduces the severity of conditions like </span><a title="constipation" href="https://www.organicfacts.net/home-remedies/home-remedies-for-constipation.html?utm_source=internal&amp;utm_medium=link&amp;utm_campaign=smartlinks"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">constipation</span></a><span style="font-size: 12.0pt; line-height: 107%;"> and protects your colon and stomach from various serious illnesses, including colorectal cancer. Fiber also boosts heart health by helping to eliminate excess LDL cholesterol from the walls of arteries and blood vessels.</span></p>
+<p><strong><span style="font-size: 12.0pt; line-height: 107%; color: #ff6600;">Prevents Cancer: </span></strong><span style="font-size: 12.0pt; line-height: 107%;">Beta-carotene consumption has been linked to a </span><a href="http://pubs.acs.org/doi/abs/10.1021/jf035472m" target="_blank" rel="noopener noreferrer"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">reduced</span></a><span style="font-size: 12.0pt; line-height: 107%;"> risk of several cancers, notably lung cancer. British researchers discovered that increasing beta-carotene consumption from 1.7 to 2.7 milligrams per day reduced lung </span><a title="cancer risk" href="https://www.organicfacts.net/home-remedies/15-ways-to-reduce-your-risk-of-cancer.html?utm_source=internal&amp;utm_medium=link&amp;utm_campaign=smartlinks"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">cancer risk</span></a><span style="font-size: 12.0pt; line-height: 107%;"> by more than 40 percent. The average carrot contains about three milligrams of beta-carotene.</span></p>
+<p><span style="font-size: 12.0pt; line-height: 107%;">In a separate study, researchers found that eating fiber-rich carrots reduces the risk of </span><a title="colon cancer" href="https://www.organicfacts.net/home-remedies/colon-cancer.html?utm_source=internal&amp;utm_medium=link&amp;utm_campaign=smartlinks"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">colon cancer</span></a><span style="font-size: 12.0pt; line-height: 107%;"> by as much as 24 percent. Another study shows that women who ate raw carrots were five to eight times less likely to develop </span><a title="breast cancer" href="https://www.organicfacts.net/home-remedies/home-remedies-for-breast-cancer.html?utm_source=internal&amp;utm_medium=link&amp;utm_campaign=smartlinks"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">breast cancer</span></a><span style="font-size: 12.0pt; line-height: 107%;"> than women who did not eat carrots. Further research into the application of both carrots and beta-carotene in relation to other forms of cancer is ongoing.</span></p>
+<p><strong><span style="font-size: 12.0pt; line-height: 107%; color: #ff6600;">Macular Degeneration: </span></strong><span style="font-size: 12.0pt; line-height: 107%;">This is a common eye disease of the elderly that impairs the function of the macula. Research has found that people who ate the most amount of beta-carotene had a forty percent </span><a href="http://pubs.acs.org/doi/abs/10.1021/jf9001044" target="_blank" rel="noopener noreferrer"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">lower risk</span></a><span style="font-size: 12.0pt; line-height: 107%;"> of macular degeneration compared with those who consumed the least. Beta-carotene can also split itself via an enzymatic reaction to form provitamin A, which is often associated with antioxidant capacity in relation to vision. Therefore, carrots are an all-around vision booster.</span></p>
+<p><strong><span style="font-size: 12.0pt; line-height: 107%; color: #ff6600;">Oral Health: </span></strong><span style="font-size: 12.0pt; line-height: 107%;">The organic compounds in carrots all by themselves are </span><a href="http://www.cabdirect.org/abstracts/19871494011.html;jsessionid=DB3FF91AD429DFC6BBE8F66789BB04B2" target="_blank" rel="noopener noreferrer"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">good for</span></a><span style="font-size: 12.0pt; line-height: 107%;"> mineral antioxidants, but carrots also stimulate the gums and induce excess saliva. Saliva is an alkaline substance that combats the bacteria and foreign bodies that can often result in cavities, halitosis, and other oral health risks. </span></p>
+<p><strong><span style="font-size: 12.0pt; line-height: 107%; color: #ff6600;">Improves Eyesight: </span></strong><span style="font-size: 12.0pt; line-height: 107%;">Deficiency of vitamin A can cause some difficulty seeing in dim light. Since carrots are rich in vitamin A, it is good for </span><a href="http://www.lifesciencesite.com/lsj/life0804/019_7828life0804_124_136.pdf" target="_blank" rel="noopener noreferrer"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">improving</span></a><span style="font-size: 12.0pt; line-height: 107%;"> eyesight and preventing conditions like night blindness from developing as we age.</span></p>
+<p><strong><span style="font-size: 12.0pt; line-height: 107%; color: #ff6600;">Stroke: </span></strong><span style="font-size: 12.0pt; line-height: 107%;">Eating a carrot every day reduces the </span><a href="http://pubs.acs.org/doi/abs/10.1021/jf800681a" target="_blank" rel="noopener noreferrer"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">risk</span></a><span style="font-size: 12.0pt; line-height: 107%;"> of stroke by 68%. Many studies have strengthened the belief in the “carrot effect” on the brain. Studies conducted on stroke patients revealed that those with the highest levels of beta-carotene had the highest survival rate.</span></p>
+<p><a title="Diabetes" href="https://www.organicfacts.net/home-remedies/home-remedies-for-diabetes.html?utm_source=internal&amp;utm_medium=link&amp;utm_campaign=smartlinks"><strong><span style="font-size: 12pt; line-height: 107%; color: #ff6600; text-decoration-line: none;">Diabetes</span></strong></a><strong><span style="font-size: 12.0pt; line-height: 107%; color: #ff6600;">:</span></strong><strong><span style="font-size: 12.0pt; line-height: 107%;"> </span></strong><span style="font-size: 12.0pt; line-height: 107%;">Carrots are good for blood sugar </span><a href="http://www.sciencedirect.com/science/article/pii/S0944711300800641" target="_blank" rel="noopener noreferrer"><span style="font-size: 12pt; line-height: 107%; color: windowtext; text-decoration-line: none;">regulation</span></a><span style="font-size: 12.0pt; line-height: 107%;"> due to the presence of carotenoids in this delicious vegetable. Carotenoids inversely affect insulin resistance and thus lower blood sugar, thereby helping diabetic patients live a normal, healthy life. They also regulate the amount of insulin and glucose that is being used and metabolized by the body, providing a more even and healthy fluctuation for diabetic patients.</span></p>
+<p>Carrots have antiseptic qualities and can, therefore, be used as laxatives, vermicides, and as a remedy for liver conditions. Carrot oil is good for <a title="dry skin" href="https://www.organicfacts.net/home-remedies/home-remedies-for-dry-skin.html?utm_source=internal&amp;utm_medium=link&amp;utm_campaign=smartlinks"><span style="color: windowtext; text-decoration-line: none;">dry skin</span></a> because it makes the skin softer, smoother, and firmer. Furthermore, carrot juice improves stomach and gastrointestinal health.  To sum it up, carrots, as raw <a title="fruits" href="https://www.organicfacts.net/health-benefits/fruit?utm_source=internal&amp;utm_medium=link&amp;utm_campaign=smartlinks"><span style="color: windowtext; text-decoration-line: none;">fruits</span></a>, juice or in cooked form, are always a good choice for your health!</p>
+<p><em>Courtesy of Organic Facts</em></p>
+<p><span style="font-size: 12.0pt; line-height: 107%;"> </span></p>
+	</div>
+</div>
+<div class="fl-module fl-module-rich-text fl-node-5ffca3b807039" data-node="5ffca3b807039">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p><div id="cbox-0avuIAoNTLzQaxQ4"></div></p>
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-separator fl-node-5f7f641995cad" data-node="5f7f641995cad">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-separator"></div>
+	</div>
+</div>
+<div class="fl-module fl-module-html fl-node-5f7f641995cb1" data-node="5f7f641995cb1">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-html">
+	Posted in <a href="https://individualfitnessllc.com/category/blog/" rel="tag" class="blog">Blog</a></div>
+	</div>
+</div>
+<div class="fl-module fl-module-separator fl-node-5f7f641995cb0" data-node="5f7f641995cb0">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-separator"></div>
+	</div>
+</div>
+<div class="fl-module fl-module-fl-post-navigation fl-node-5f7f641995caf" data-node="5f7f641995caf">
+	<div class="fl-module-content fl-node-content">
+		
+	<nav class="navigation post-navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://individualfitnessllc.com/spiced-chicken-and-rice-with-apples-and-raisins/" rel="prev">&larr; Spiced Chicken and Rice With Apples and Raisins</a></div><div class="nav-next"><a href="https://individualfitnessllc.com/carrot-cake-smoothie/" rel="next">Carrot Cake Smoothie &rarr;</a></div></div>
+	</nav>	</div>
+</div>
+<div class="fl-module fl-module-fl-comments fl-node-5f7f641995caa" data-node="5f7f641995caa">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-comments">
+
+	
+			<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="/health-benefits-of-carrots/#respond" style="display:none;">Cancel Reply</a></small></h3><form action="https://individualfitnessllc.com/wp-comments-post.php?wpe-comment-post=indfitdev" method="post" id="fl-comment-form" class="fl-comment-form"><label for="fl-comment">Comment</label><textarea id="fl-comment" name="comment" class="form-control" cols="60" rows="8"></textarea><br /><label for="fl-author">Name (required)</label>
+									<input type="text" id="fl-author" name="author" class="form-control" value="" aria-required="true" /><br />
+<label for="fl-email">Email (will not be published) (required)</label>
+									<input type="text" id="fl-email" name="email" class="form-control" value="" aria-required="true" /><br />
+<label for="fl-url">Website</label>
+									<input type="text" id="fl-url" name="url" class="form-control" value="" /><br />
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes" /> <label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+<p class="form-submit"><input name="submit" type="submit" id="fl-comment-form-submit" class="btn btn-primary" value="Submit Comment" /> <input type='hidden' name='comment_post_ID' value='5876' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="e643df1215" /></p><p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="220"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>	</div><!-- #respond -->
+	<p class="akismet_comment_form_privacy_notice">This site uses Akismet to reduce spam. <a href="https://akismet.com/privacy/" target="_blank" rel="nofollow noopener">Learn how your comment data is processed</a>.</p>	</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-fixed-width fl-row-bg-none fl-node-5f997367e0f4d fl-row-default-height fl-row-align-center" data-node="5f997367e0f4d">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5f997367e82f5" data-node="5f997367e82f5">
+			<div class="fl-col fl-node-5f997367e8495" data-node="5f997367e8495">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-pp-subscribe-form fl-node-5f997367e0474" data-node="5f997367e0474">
+	<div class="fl-module-content fl-node-content">
+			<div class="pp-subscribe-5f997367e0474 pp-subscribe-popup_scroll pp-subscribe-box fl-node-5f997367e0474 pp-clearfix">
+		<div class="pp-subscribe-inner">
+			<a href="#" class="pp-box-close">
+				<svg class="pp-box-close-svg" viewbox="0 0 40 40">
+			    	<path d="M 10,10 L 30,30 M 30,10 L 10,30" />
+			  	</svg>
+			</a>
+			<div class="pp-subscribe-body">
+				<div class="pp-subscribe-content">
+					<p style="text-align: center;">Subscribe to our weekly newsletter chock full of exercise and healthy lifestyle tips, recipes and motivation.</p>				</div>
+
+	<div class="pp-subscribe-form pp-subscribe-form-stacked pp-subscribe-form-name-show pp-form pp-clearfix" data-template-id="5f99726190c9a" data-template-node-id="5f9972619f50e">
+
+		
+		<div class="pp-subscribe-form-inner pp-clearfix">
+
+			
+			
+				<div class="pp-form-field pp-name-field">
+									<input id="pp-subscribe-form-name" type="text" name="pp-subscribe-form-name" placeholder="Name" value="" />
+					<div class="pp-form-error-message">Please enter your name.</div>
+				</div>
+
+			
+			<div class="pp-form-field pp-email-field">
+							<input id="pp-subscribe-form-email" type="email" name="pp-subscribe-form-email" placeholder="Email Address" value="" />
+				<div class="pp-form-error-message">Please enter a valid email address.</div>
+			</div>
+
+			
+			<div class="pp-form-button pp-button-wrap" data-wait-text="Please Wait...">
+
+				<div class="fl-button-wrap fl-button-width-full">
+			<a href="#" target="_self" class="fl-button pp-button" role="button">
+							<span class="fl-button-text">Subscribe!</span>
+					</a>
+</div>
+
+			</div>
+
+			
+			<div class="pp-form-error-message">Something went wrong. Please check your entries and try again.</div>
+		</div>
+			</div>
+
+			</div><!-- .pp-subscribe-body -->
+		</div><!-- .pp-subscribe-inner -->
+	</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-photo fl-node-601023ce13f42 fl-row-default-height fl-row-align-center fl-row-bg-overlay" data-node="601023ce13f42">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-600f549b70801" data-node="600f549b70801">
+			<div class="fl-col fl-node-600f549b70805 fl-col-small" data-node="600f549b70805">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-pp-infobox fl-node-600f549b70807" data-node="600f549b70807">
+	<div class="fl-module-content fl-node-content">
+		<div class="pp-infobox-wrap">
+	<div class="pp-infobox layout-5">
+	<div class="pp-icon-wrapper animated">
+						<div class="pp-infobox-icon">
+				<div class="pp-infobox-icon-inner">
+					<span class="pp-icon ua-icon ua-icon-rocket"></span>
+				</div>
+			</div>
+			</div>
+	<span class="pp-infobox-title-prefix"></span>
+
+		<div class="pp-infobox-title-wrapper">
+		<h2 class="pp-infobox-title">Boost your energy and strength with a 30-day jumpstart</h2>
+	</div>
+		<div class="pp-infobox-description">
+		<div class="pp-description-wrap">
+			<p>Join us for 30 days towards a healthier you!</p>
+<p><span style="color: #000000;"><a style="color: #000000;" href="https://individualfitnessllc.com/lps/jumpstart/">LEARN MORE</a></span></p>
+		</div>
+					<div class="pp-infobox-button pp-button-wrap">
+				<a class="pp-more-link pp-button" href="https://individualfitnessllc.com/lps/jumpstart/" role="button" target="_self">
+											<i class="pp-button-icon pp-button-icon-left "></i>
+										GET STARTED									</a>
+			</div>
+				</div>
+</div></div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-600f549b70806 fl-visible-desktop fl-visible-large" data-node="600f549b70806">
+	<div class="fl-col-content fl-node-content"></div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</div><div class="uabb-js-breakpoint" style="display: none;"></div>
+	</div><!-- .fl-page-content -->
+	<footer class="fl-builder-content fl-builder-content-4572 fl-builder-global-templates-locked" data-post-id="4572" data-type="footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter"><div class="fl-row fl-row-full-width fl-row-bg-color fl-node-qczyfo23w7ku fl-row-default-height fl-row-align-center" data-node="qczyfo23w7ku">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5f8df4225b524 fl-col-group-custom-width" data-node="5f8df4225b524">
+			<div class="fl-col fl-node-5f8df4225b52a fl-col-small-custom-width" data-node="5f8df4225b52a">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-spacer-gap fl-node-5f8df4225b52d" data-node="5f8df4225b52d">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-spacer-gap-preview uabb-spacer-gap">
+</div>
+	</div>
+</div>
+<div class="fl-module fl-module-spacer-gap fl-node-5f8df4225b52c" data-node="5f8df4225b52c">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-spacer-gap-preview uabb-spacer-gap">
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-5f8df4225b528 fl-col-group-custom-width" data-node="5f8df4225b528">
+			<div class="fl-col fl-node-kvm53ljd9ias fl-col-small fl-col-small-custom-width" data-node="kvm53ljd9ias">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-photo fl-node-8yikdf6t571q" data-node="8yikdf6t571q">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<img decoding="async" class="fl-photo-img wp-image-8256 size-full lazyload" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAdAAAACcAQAAAADny8cOAAAAAnRSTlMAAHaTzTgAAAAgSURBVGje7cEBDQAAAMKg909tDjegAAAAAAAAAACAJwMj9AABEfOeagAAAABJRU5ErkJggg==" alt="Best of the 603 - Best Gym/Fitness Studio 2023 &amp; 2022" itemprop="image" height="156" width="464" title="best gym-fitness studio 603-2023-2022"   data-src="https://individualfitnessllc.com/wp-content/uploads/2023/10/best-gym-fitness-studio-603-2023-2022.png" data-srcset="https://individualfitnessllc.com/wp-content/uploads/2023/10/best-gym-fitness-studio-603-2023-2022.png 464w, https://individualfitnessllc.com/wp-content/uploads/2023/10/best-gym-fitness-studio-603-2023-2022-300x101.png 300w" data-sizes="auto" data-eio-rwidth="464" data-eio-rheight="156" /><noscript><img decoding="async" class="fl-photo-img wp-image-8256 size-full" src="https://individualfitnessllc.com/wp-content/uploads/2023/10/best-gym-fitness-studio-603-2023-2022.png" alt="Best of the 603 - Best Gym/Fitness Studio 2023 &amp; 2022" itemprop="image" height="156" width="464" title="best gym-fitness studio 603-2023-2022" srcset="https://individualfitnessllc.com/wp-content/uploads/2023/10/best-gym-fitness-studio-603-2023-2022.png 464w, https://individualfitnessllc.com/wp-content/uploads/2023/10/best-gym-fitness-studio-603-2023-2022-300x101.png 300w" sizes="(max-width: 464px) 100vw, 464px" data-eio="l" /></noscript>
+					</div>
+	</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5f8df4225b52e fl-col-small fl-col-small-custom-width" data-node="5f8df4225b52e">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-photo fl-node-5f8df4225b532" data-node="5f8df4225b532">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<img decoding="async" class="fl-photo-img wp-image-6599 size-full lazyload" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK8AAABkAQAAAADYxl2vAAAAAnRSTlMAAHaTzTgAAAAYSURBVEjH7cEBAQAAAIIg/69uSEABAPwYCPwAATzJntoAAAAASUVORK5CYII=" alt="NASM" itemprop="image" height="100" width="175" title="nasm_logo_175X100" data-src="https://individualfitnessllc.com/wp-content/uploads/2020/10/nasm_logo_175X100.png" data-eio-rwidth="175" data-eio-rheight="100" /><noscript><img decoding="async" class="fl-photo-img wp-image-6599 size-full" src="https://individualfitnessllc.com/wp-content/uploads/2020/10/nasm_logo_175X100.png" alt="NASM" itemprop="image" height="100" width="175" title="nasm_logo_175X100" data-eio="l" /></noscript>
+					</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-spacer-gap fl-node-5f8df4225b533 fl-visible-medium fl-visible-mobile" data-node="5f8df4225b533">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-spacer-gap-preview uabb-spacer-gap">
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5f8df4225b52f fl-col-small fl-col-small-custom-width" data-node="5f8df4225b52f">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-photo fl-node-5f8df4225b534" data-node="5f8df4225b534">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<img decoding="async" class="fl-photo-img wp-image-6600 size-full lazyload" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK4AAABkAQAAAAA3BDaRAAAAAnRSTlMAAHaTzTgAAAAYSURBVEjH7cEBAQAAAIIg/69uSEABAPwYCPwAATzJntoAAAAASUVORK5CYII=" alt="Greater Manchester Chamber" itemprop="image" height="100" width="174" title="GMC_logo_175X100" data-src="https://individualfitnessllc.com/wp-content/uploads/2020/10/GMC_logo_175X100.png" data-eio-rwidth="174" data-eio-rheight="100" /><noscript><img decoding="async" class="fl-photo-img wp-image-6600 size-full" src="https://individualfitnessllc.com/wp-content/uploads/2020/10/GMC_logo_175X100.png" alt="Greater Manchester Chamber" itemprop="image" height="100" width="174" title="GMC_logo_175X100" data-eio="l" /></noscript>
+					</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-spacer-gap fl-node-5f8df4225b535 fl-visible-medium fl-visible-mobile" data-node="5f8df4225b535">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-spacer-gap-preview uabb-spacer-gap">
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5f8df4225b530 fl-col-small fl-col-small-custom-width" data-node="5f8df4225b530">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-photo fl-node-5f8df4225b536" data-node="5f8df4225b536">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<img decoding="async" class="fl-photo-img wp-image-6601 size-full lazyload" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK8AAABkAQAAAADYxl2vAAAAAnRSTlMAAHaTzTgAAAAYSURBVEjH7cEBAQAAAIIg/69uSEABAPwYCPwAATzJntoAAAAASUVORK5CYII=" alt="Greater Concord Chamber of Commerce" itemprop="image" height="100" width="175" title="greater-concord-chamber-of-commerce-logo" data-src="https://individualfitnessllc.com/wp-content/uploads/2020/10/greater-concord-chamber-of-commerce-logo.png" data-eio-rwidth="175" data-eio-rheight="100" /><noscript><img decoding="async" class="fl-photo-img wp-image-6601 size-full" src="https://individualfitnessllc.com/wp-content/uploads/2020/10/greater-concord-chamber-of-commerce-logo.png" alt="Greater Concord Chamber of Commerce" itemprop="image" height="100" width="175" title="greater-concord-chamber-of-commerce-logo" data-eio="l" /></noscript>
+					</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-spacer-gap fl-node-5f8df4225b537 fl-visible-medium fl-visible-mobile" data-node="5f8df4225b537">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-spacer-gap-preview uabb-spacer-gap">
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5f8df4225b531 fl-col-small fl-col-small-custom-width" data-node="5f8df4225b531">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-photo fl-node-5f8df4225b538" data-node="5f8df4225b538">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-photo fl-photo-align-center" itemscope itemtype="https://schema.org/ImageObject">
+	<div class="fl-photo-content fl-photo-img-png">
+				<img decoding="async" class="fl-photo-img wp-image-6664 size-full lazyload" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALUAAABkAQAAAADoSkyOAAAAAnRSTlMAAHaTzTgAAAAZSURBVEjH7cExAQAAAMKg9U9tCU+gAAB4GglgAAEwtmf0AAAAAElFTkSuQmCC" alt="Manchester Rotary Club" itemprop="image" height="100" width="181" title="Manchester-Rotary-Club" data-src="https://individualfitnessllc.com/wp-content/uploads/2020/10/Manchester-Rotary-Club.png" data-eio-rwidth="181" data-eio-rheight="100" /><noscript><img decoding="async" class="fl-photo-img wp-image-6664 size-full" src="https://individualfitnessllc.com/wp-content/uploads/2020/10/Manchester-Rotary-Club.png" alt="Manchester Rotary Club" itemprop="image" height="100" width="181" title="Manchester-Rotary-Club" data-eio="l" /></noscript>
+					</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-spacer-gap fl-node-5f8df4225b539 fl-visible-medium fl-visible-mobile" data-node="5f8df4225b539">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-spacer-gap-preview uabb-spacer-gap">
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-5f8df4225b529" data-node="5f8df4225b529">
+			<div class="fl-col fl-node-5f8df4225b53a" data-node="5f8df4225b53a">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-spacer-gap fl-node-5f8df4225b53b" data-node="5f8df4225b53b">
+	<div class="fl-module-content fl-node-content">
+		<div class="uabb-module-content uabb-spacer-gap-preview uabb-spacer-gap">
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5f7b7c0d113fd fl-row-default-height fl-row-align-center" data-node="5f7b7c0d113fd">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-81lvcrakpbxe" data-node="81lvcrakpbxe">
+			<div class="fl-col fl-node-i2wpm18ehkj7" data-node="i2wpm18ehkj7">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-heading fl-node-tnrmhbxl18vz" data-node="tnrmhbxl18vz">
+	<div class="fl-module-content fl-node-content">
+		<h2 class="fl-heading">
+		<span class="fl-heading-text">Individual Fitness Personal Training Studio Locations</span>
+	</h2>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+
+<div class="fl-col-group fl-node-5f7b7c0d113fe" data-node="5f7b7c0d113fe">
+			<div class="fl-col fl-node-5f7b7c0d11401 fl-col-small" data-node="5f7b7c0d11401">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-heading fl-node-5f7b7c0d11418" data-node="5f7b7c0d11418">
+	<div class="fl-module-content fl-node-content">
+		<h3 class="fl-heading">
+		<span class="fl-heading-text">Concord, NH</span>
+	</h3>
+	</div>
+</div>
+<div class="fl-module fl-module-icon fl-node-5f7b7c0d11407" data-node="5f7b7c0d11407">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-icon-wrap">
+	<span class="fl-icon">
+								<a href="tel:6032248096" target="_self" tabindex="-1" aria-hidden="true" aria-labelledby="fl-icon-text-5f7b7c0d11407">
+							<i class="fas fa-phone" aria-hidden="true"></i>
+						</a>
+			</span>
+			<div id="fl-icon-text-5f7b7c0d11407" class="fl-icon-text">
+						<a href="tel:6032248096" target="_self" class="fl-icon-text-link fl-icon-text-wrap">
+						<p>603-224-8096</p>						</a>
+					</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-icon fl-node-5f7b7c0d11405" data-node="5f7b7c0d11405">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-icon-wrap">
+	<span class="fl-icon">
+								<a href="#" target="_self" tabindex="-1" aria-hidden="true" aria-labelledby="fl-icon-text-5f7b7c0d11405">
+							<i class="far fa-map" aria-hidden="true"></i>
+						</a>
+			</span>
+			<div id="fl-icon-text-5f7b7c0d11405" class="fl-icon-text">
+						<a href="#" target="_self" class="fl-icon-text-link fl-icon-text-wrap">
+						<p>80 South Main Street<br />Concord, NH 03301</p>						</a>
+					</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-icon fl-node-5f7b7c0d11406" data-node="5f7b7c0d11406">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-icon-wrap">
+	<span class="fl-icon">
+								<a href="/cdn-cgi/l/email-protection#9bf2f5fdf4dbf2f5fff2edf2ffeefaf7fdf2eff5fee8e8f7f7f8b5f8f4f6" target="_self" tabindex="-1" aria-hidden="true" aria-labelledby="fl-icon-text-5f7b7c0d11406">
+							<i class="far fa-envelope" aria-hidden="true"></i>
+						</a>
+			</span>
+			<div id="fl-icon-text-5f7b7c0d11406" class="fl-icon-text">
+						<a href="/cdn-cgi/l/email-protection#3a53545c557a53545e534c535e4f5b565c534e545f494956565914595557" target="_self" class="fl-icon-text-link fl-icon-text-wrap">
+						<p><span class="__cf_email__" data-cfemail="9bf2f5fdf4dbf2f5fff2edf2ffeefaf7fdf2eff5fee8e8f7f7f8b5f8f4f6">[email&#160;protected]</span></p>						</a>
+					</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-icon-group fl-node-5f7b7d85957b2" data-node="5f7b7d85957b2">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-icon-group">
+	<span class="fl-icon">
+								<a href="https://www.facebook.com/IndividualFitness" target="_blank" rel="noopener" >
+							<i class="ua-icon ua-icon-facebook-with-circle" aria-hidden="true"></i>
+				<span class="sr-only">Individual Fitness - Concord NH</span>
+						</a>
+			</span>
+		<span class="fl-icon">
+								<a href="https://twitter.com/IndFitness" target="_blank" rel="noopener" >
+							<i class="ua-icon ua-icon-twitter-with-circle" aria-hidden="true"></i>
+						</a>
+			</span>
+		<span class="fl-icon">
+								<a href="https://www.instagram.com/individualfitnessllc/" target="_blank" rel="noopener" >
+							<i class="ua-icon ua-icon-instagram-with-circle" aria-hidden="true"></i>
+						</a>
+			</span>
+		<span class="fl-icon">
+								<a href="https://www.youtube.com/channel/UC0PMY7T1jPPPZASjwK08ncw" target="_blank" rel="noopener" >
+							<i class="ua-icon ua-icon-youtube-with-circle" aria-hidden="true"></i>
+						</a>
+			</span>
+		<span class="fl-icon">
+								<a href="https://g.page/individual-fitness-concord?gm" target="_blank" rel="noopener" >
+							<i class="dashicons dashicons-before dashicons-googleplus" aria-hidden="true"></i>
+						</a>
+			</span>
+	</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5f7b7ca656653 fl-col-small" data-node="5f7b7ca656653">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-heading fl-node-5f7b7ca040e1b" data-node="5f7b7ca040e1b">
+	<div class="fl-module-content fl-node-content">
+		<h3 class="fl-heading">
+		<span class="fl-heading-text">Manchester, NH</span>
+	</h3>
+	</div>
+</div>
+<div class="fl-module fl-module-icon fl-node-5f7b7cbfb2c13" data-node="5f7b7cbfb2c13">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-icon-wrap">
+	<span class="fl-icon">
+								<a href="tel:6038365745" target="_self" tabindex="-1" aria-hidden="true" aria-labelledby="fl-icon-text-5f7b7cbfb2c13">
+							<i class="fas fa-phone" aria-hidden="true"></i>
+						</a>
+			</span>
+			<div id="fl-icon-text-5f7b7cbfb2c13" class="fl-icon-text">
+						<a href="tel:6038365745" target="_self" class="fl-icon-text-link fl-icon-text-wrap">
+						<p>603-836-5745</p>						</a>
+					</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-icon fl-node-5f7b7cdb07f01" data-node="5f7b7cdb07f01">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-icon-wrap">
+	<span class="fl-icon">
+								<a href="#" target="_self" tabindex="-1" aria-hidden="true" aria-labelledby="fl-icon-text-5f7b7cdb07f01">
+							<i class="far fa-map" aria-hidden="true"></i>
+						</a>
+			</span>
+			<div id="fl-icon-text-5f7b7cdb07f01" class="fl-icon-text">
+						<a href="#" target="_self" class="fl-icon-text-link fl-icon-text-wrap">
+						<p>268 Mammoth Road<br />Manchester, NH 03109</p>						</a>
+					</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-icon fl-node-5f7b7d0d535b4" data-node="5f7b7d0d535b4">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-icon-wrap">
+	<span class="fl-icon">
+								<a href="/cdn-cgi/l/email-protection#c7aea9a1a887aea9a3aeb1aea3b2a6aba1aeb3a9a2b4b4ababa4e9a4a8aa" target="_self" tabindex="-1" aria-hidden="true" aria-labelledby="fl-icon-text-5f7b7d0d535b4">
+							<i class="far fa-envelope" aria-hidden="true"></i>
+						</a>
+			</span>
+			<div id="fl-icon-text-5f7b7d0d535b4" class="fl-icon-text">
+						<a href="/cdn-cgi/l/email-protection#cba2a5ada48ba2a5afa2bda2afbeaaa7ada2bfa5aeb8b8a7a7a8e5a8a4a6" target="_self" class="fl-icon-text-link fl-icon-text-wrap">
+						<p><span class="__cf_email__" data-cfemail="127b7c747d527b7c767b647b7667737e747b667c7761617e7e713c717d7f">[email&#160;protected]</span></p>						</a>
+					</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-icon-group fl-node-5f7b7fe77bea9" data-node="5f7b7fe77bea9">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-icon-group">
+	<span class="fl-icon">
+								<a href="https://www.facebook.com/individualfitnessmanchester" target="_blank" rel="noopener" >
+							<i class="ua-icon ua-icon-facebook-with-circle" aria-hidden="true"></i>
+				<span class="sr-only">Individual Fitness - Concord NH</span>
+						</a>
+			</span>
+		<span class="fl-icon">
+								<a href="https://twitter.com/IndFitness" target="_blank" rel="noopener" >
+							<i class="ua-icon ua-icon-twitter-with-circle" aria-hidden="true"></i>
+						</a>
+			</span>
+		<span class="fl-icon">
+								<a href="https://www.instagram.com/individualfitnessllc/" target="_blank" rel="noopener" >
+							<i class="ua-icon ua-icon-instagram-with-circle" aria-hidden="true"></i>
+						</a>
+			</span>
+		<span class="fl-icon">
+								<a href="https://www.youtube.com/channel/UC0PMY7T1jPPPZASjwK08ncw" target="_blank" rel="noopener" >
+							<i class="ua-icon ua-icon-youtube-with-circle" aria-hidden="true"></i>
+						</a>
+			</span>
+		<span class="fl-icon">
+								<a href="https://g.page/individual-fitness-manchester?we" target="_blank" rel="noopener" >
+							<i class="dashicons dashicons-before dashicons-googleplus" aria-hidden="true"></i>
+						</a>
+			</span>
+	</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5f7b7c0d113ff fl-col-small" data-node="5f7b7c0d113ff">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-icon fl-node-5f8cbd6c38c21" data-node="5f8cbd6c38c21">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-icon-wrap">
+	<span class="fl-icon">
+				<i class="ua-icon ua-icon-globe2" aria-hidden="true"></i>
+					</span>
+			<div id="fl-icon-text-5f8cbd6c38c21" class="fl-icon-text fl-icon-text-wrap">
+						<h3>Wherever You Are!</h3>					</div>
+	</div>
+	</div>
+</div>
+<div class="fl-module fl-module-icon fl-node-5f877ba0662c8" data-node="5f877ba0662c8">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-icon-wrap">
+	<span class="fl-icon">
+				<i class="ua-icon ua-icon-tablet-mobile-combo" aria-hidden="true"></i>
+					</span>
+			<div id="fl-icon-text-5f877ba0662c8" class="fl-icon-text fl-icon-text-wrap">
+						<p>We work with clients like you all over the world via our custom app and Zoom!</p>					</div>
+	</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+<div class="fl-row fl-row-full-width fl-row-bg-color fl-node-5f7b7c0d113f4 fl-row-default-height fl-row-align-center" data-node="5f7b7c0d113f4">
+	<div class="fl-row-content-wrap">
+		<div class="uabb-row-separator uabb-top-row-separator" >
+</div>
+						<div class="fl-row-content fl-row-fixed-width fl-node-content">
+		
+<div class="fl-col-group fl-node-5f7b7c0d113f9" data-node="5f7b7c0d113f9">
+			<div class="fl-col fl-node-5f7b7c0d113fb fl-col-small" data-node="5f7b7c0d113fb">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-5f7b7c0d113fc" data-node="5f7b7c0d113fc">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p style="text-align: left;">©2024 Individual Fitness. All Rights Reserved.</p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+			<div class="fl-col fl-node-5f99a4f431b4c fl-col-small" data-node="5f99a4f431b4c">
+	<div class="fl-col-content fl-node-content"><div class="fl-module fl-module-rich-text fl-node-5f99a4eef3a8b" data-node="5f99a4eef3a8b">
+	<div class="fl-module-content fl-node-content">
+		<div class="fl-rich-text">
+	<p style="text-align: right;"><a href="https://individualfitnessllc.com/privacy-policy/">Privacy Policy</a>  |  <a href="https://individualfitnessllc.com/terms/">Terms of Use</a></p>
+</div>
+	</div>
+</div>
+</div>
+</div>
+	</div>
+		</div>
+	</div>
+</div>
+</footer><div class="uabb-js-breakpoint" style="display: none;"></div>	</div><!-- .fl-page -->
+<div class="woopack-modal" style="display: none;">
+    <div class="woopack-modal-overlay lazyload" style="" data-back="https://individualfitnessllc.com/wp-content/plugins/woopack/assets/images/loader.gif"></div>
+    <div class="woopack-modal-inner">
+        <div class="woopack-modal-close">×</div>
+        <div class="woopack-modal-content"></div>
+    </div>
+</div>
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<link rel='stylesheet' id='wc-blocks-style-css' href='https://individualfitnessllc.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-9.2.3' media='all' />
+<script id="eio-lazy-load-js-before">
+var eio_lazy_vars = {"exactdn_domain":"","skip_autoscale":0,"threshold":0};
+</script>
+<script src="https://individualfitnessllc.com/wp-content/plugins/ewww-image-optimizer/includes/lazysizes.min.js?ver=721" id="eio-lazy-load-js"></script>
+<script id="site_tracking-js-extra">
+var php_data = {"ac_settings":{"tracking_actid":476208657,"site_tracking_default":1},"user_email":""};
+</script>
+<script src="https://individualfitnessllc.com/wp-content/plugins/activecampaign-subscription-forms/site_tracking.js?ver=6.6.1" id="site_tracking-js"></script>
+<script src="https://individualfitnessllc.com/wp-content/plugins/woopack/assets/js/frontend.js?ver=1.4.5" id="woopack-frontend-js"></script>
+<script src="https://individualfitnessllc.com/wp-content/plugins/bb-plugin/js/jquery.fitvids.min.js?ver=1.2" id="jquery-fitvids-js"></script>
+<script src="https://individualfitnessllc.com/wp-content/uploads/bb-plugin/cache/a70fdb3157cb1ae7113821a88d25fbde-layout-bundle.js?ver=2.8.3.6-1.4.10" id="fl-builder-layout-bundle-a70fdb3157cb1ae7113821a88d25fbde-js"></script>
+<script src="https://individualfitnessllc.com/wp-content/plugins/woocommerce/assets/js/sourcebuster/sourcebuster.min.js?ver=9.2.3" id="sourcebuster-js-js"></script>
+<script id="wc-order-attribution-js-extra">
+var wc_order_attribution = {"params":{"lifetime":1.0e-5,"session":30,"base64":false,"ajaxurl":"https:\/\/individualfitnessllc.com\/wp-admin\/admin-ajax.php","prefix":"wc_order_attribution_","allowTracking":true},"fields":{"source_type":"current.typ","referrer":"current_add.rf","utm_campaign":"current.cmp","utm_source":"current.src","utm_medium":"current.mdm","utm_content":"current.cnt","utm_id":"current.id","utm_term":"current.trm","utm_source_platform":"current.plt","utm_creative_format":"current.fmt","utm_marketing_tactic":"current.tct","session_entry":"current_add.ep","session_start_time":"current_add.fd","session_pages":"session.pgs","session_count":"udata.vst","user_agent":"udata.uag"}};
+</script>
+<script src="https://individualfitnessllc.com/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js?ver=9.2.3" id="wc-order-attribution-js"></script>
+<script src="https://individualfitnessllc.com/wp-content/plugins/bb-plugin/js/jquery.ba-throttle-debounce.min.js?ver=2.8.3.6" id="jquery-throttle-js"></script>
+<script src="https://individualfitnessllc.com/wp-content/plugins/bb-plugin/js/jquery.magnificpopup.min.js?ver=2.8.3.6" id="jquery-magnificpopup-js"></script>
+<script src="https://individualfitnessllc.com/wp-includes/js/comment-reply.min.js?ver=6.6.1" id="comment-reply-js" async data-wp-strategy="async"></script>
+<script id="fl-automator-js-extra">
+var themeopts = {"medium_breakpoint":"992","mobile_breakpoint":"768","scrollTopPosition":"800"};
+</script>
+<script src="https://individualfitnessllc.com/wp-content/themes/bb-theme/js/theme.min.js?ver=1.7.16" id="fl-automator-js"></script>
+<script defer src="https://individualfitnessllc.com/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1720666093" id="akismet-frontend-js"></script>
+</body>
+</html>
